@@ -1,0 +1,2 @@
+PT Graha Bangun Persada merupakan salah satu penyedia jasa kontraktor yang berfokus pada pengadaan, penyewaan, pengelolaan, serta operasional alat berat untuk mendukung berbagai kebutuhan pengerjaan fisik di sektor konstruksi dan sipil. 
+Proyek ini bertujuan untuk membangun platform penyewaan alat berat berbasis web jadi pelanggan bisa langsung cek ketersediaan unit, lihat spesifikasi, dan sewa alat sesuai kebutuhan proyek mereka tanpa prosedur rumit.
